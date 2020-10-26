@@ -6,6 +6,5 @@ int main() {
     
     cout <<"Hello, World!";
     // alternative usage printf("Hello, World!"); from C
-    /
     return 0;
 }
